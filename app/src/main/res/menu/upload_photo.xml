@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/upload_photo" android:title="Upload Photo"></item>
+    <item android:id="@+id/signout" android:title="SignOut"></item>
+</menu>
